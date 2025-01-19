@@ -1,4 +1,4 @@
-package org.example.hw.block1_3_arrays.task3;
+package org.example.hw;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

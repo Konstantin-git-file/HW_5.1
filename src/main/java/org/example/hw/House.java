@@ -1,9 +1,10 @@
-package org.example.hw.block1_1_objects;
+package org.example.hw;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
 /*
+1.1.5.
 Создайте сущность Дом, которая описывается одним параметром:
     • Количество этажей: целое число
  У Дома можно запросить текстовую форму, которое имеет представление вида “дом с N этажами”,

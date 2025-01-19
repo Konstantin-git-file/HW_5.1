@@ -1,8 +1,9 @@
-package org.example.hw.block1_1_objects;
+package org.example.hw;
 
 import lombok.*;
 
 /*
+   1.1.1.
    Создайте сущность Точка, расположенную на двумерной плоскости, которая описывается:
    • Координата Х: целое число
    • Координата Y: целое число
@@ -11,8 +12,7 @@ import lombok.*;
     */
 @Data
 @AllArgsConstructor
-//@NoArgsConstructor - удален, чтобы нельзя было создать точку без указания
-// координат (условие из задачи 1.4.1.)
+//@NoArgsConstructor - удален, чтобы нельзя было создать точку без указания координат (условие из задачи 1.4.1.)
 public class Point {
     private int x;
     private int y;

@@ -1,4 +1,4 @@
-package org.example.hw.block1_2_multipleClasses.task4;
+package org.example.hw;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -25,7 +25,7 @@ public class Employee {
             return name + " работает в отделе " + department.getName() + ", начальник которого " + managerName;
         }
     }
-
+    // метод возвращает список всех сотрудников отдела.
     public List<Employee> getDepartmentEmployees() {
         if (department != null) {
             return department.getEmployees();

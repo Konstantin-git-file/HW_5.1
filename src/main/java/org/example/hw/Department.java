@@ -1,4 +1,4 @@
-package org.example.hw.block1_2_multipleClasses.task4;
+package org.example.hw;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

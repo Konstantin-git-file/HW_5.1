@@ -1,10 +1,11 @@
-package org.example.hw.block1_1_objects;
+package org.example.hw;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /*
+1.1.4.
  Создайте сущность Время, которое будет описывать текущее время суток в 24-х часовом формате.
  Время описывается числом секунд, прошедшим с начала суток. Время может быть приведено к
  текстовой форме следующего формата: “ЧЧ:ММ:СС”. Например, если время задано как 12000,

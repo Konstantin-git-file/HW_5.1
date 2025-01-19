@@ -1,8 +1,9 @@
-package org.example.hw.block1_1_objects;
+package org.example.hw;
 
 import lombok.*;
 
 /*
+1.1.2.
 Создайте сущность Человек, которая описывается:
     • Имя: строка
     • Рост: целое число
@@ -19,7 +20,7 @@ public class Person {
     private int height;
     private Person father;
 
-    private Person(Name name, int height, Person father) {
+    Person(Name name, int height, Person father) {
         this.name = name;
         this.height = height;
         this.father = father;

@@ -1,7 +1,6 @@
-package org.example.hw.block1_3_arrays.task2;
+package org.example.hw;
 
 import lombok.Data;
-import org.example.hw.block1_1_objects.Point;
 
 /*
 1.3.2 Ломаная линия. Создайте сущность Ломаная, которая будет представлять собой ломаную линию (см. пример на рис.1.13). Ломаная линия представляет собой набор следующих характеристик:

@@ -1,4 +1,4 @@
-package org.example.hw.block1_3_arrays.task1;
+package org.example.hw;
 
 import lombok.Data;
 
